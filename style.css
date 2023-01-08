@@ -1,0 +1,43 @@
+#game{
+    padding: 10px;
+    height: 700px;
+    width: 500px;
+    margin: auto;
+    background-color: green;
+}
+
+table{
+    margin-top: 400px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: 100px;
+}
+
+input[class="btn-g"]{
+    font-family: 'Verdana', sans-serif;
+    background-color: green;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px 24px;
+    font-size: 36px;
+}
+input[class="btn-r"]{
+    font-family: 'Verdana', sans-serif;
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px 24px;
+    font-size: 36px;
+}
+input[class="btn-b"]{
+    font-family: 'Verdana', sans-serif;
+    background-color: black;
+    color: white;
+    border: white 0.5px;
+    width: 100%;
+    border-radius: 5px;
+    height: 70%;
+    outline: none;
+}
